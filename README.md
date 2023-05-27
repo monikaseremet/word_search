@@ -1,5 +1,5 @@
 # word_search
-Program that return a list containing all the words included the file match the specific search term.
+Program that return a list containing all the words included in the file (words.txt) match the specific search term.
 
 The search term may include lowercase letters and the following wildcard characters:
 
